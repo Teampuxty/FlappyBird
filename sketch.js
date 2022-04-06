@@ -91,7 +91,7 @@ class Pipes {
 
 }
 
-var bird = new Bird(WIDTH / 2, HEIGHT / 2, 30);
+var bird = new Bird(2, 75, 30);
 var pipes = new Pipes(60, 150, 130);
 
 
