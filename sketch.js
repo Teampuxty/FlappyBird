@@ -2,8 +2,8 @@ const GRAVITY = 9.81;
 const JUMP_HEIGHT = 9.0;
 const GROUND_HEIGHT = 20; 
 
-const WIDTH = 400;
-const HEIGHT = 600;
+const WIDTH = 750;
+const HEIGHT = 900;
 
 var SCROLL_SPEED = 4;
 var SCORE = 0;
