@@ -5,7 +5,7 @@ const GROUND_HEIGHT = 20;
 const WIDTH = 900;
 const HEIGHT = 1600;
 
-var SCROLL_SPEED = 1;
+var SCROLL_SPEED = 2;
 var SCORE = 0;
 var IMAGE;
 
@@ -91,7 +91,7 @@ class Pipes {
 
 }
 
-var bird = new Bird(2, 75, 30);
+var bird = new Bird(31, 75, 30);
 var pipes = new Pipes(60, 150, 130);
 
 
