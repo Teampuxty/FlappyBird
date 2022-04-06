@@ -5,7 +5,7 @@ const GROUND_HEIGHT = 20;
 const WIDTH = 900;
 const HEIGHT = 1600;
 
-var SCROLL_SPEED = 4;
+var SCROLL_SPEED = 1;
 var SCORE = 0;
 var IMAGE;
 
