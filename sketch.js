@@ -118,7 +118,10 @@ function keyPressed() {
   if (keyCode == 32) {
     bird.flap();
   }
-  touchStarted(bird.flap())
+}
+
+function touchStarted() {
+  bird.flap();
 }
 
 function mouseClicked() {
